@@ -3,8 +3,8 @@
 ## Getting started
 
 1. Get a Facebook and Instagram account
-2. Link Instagram with Facebook: https://help.instagram.com/176235449218188
-3. Install Spark AR Studio: https://sparkar.facebook.com/ar-studio/
+2. [Link Instagram with Facebook](https://help.instagram.com/176235449218188)
+3. [Install Spark AR Studio](https://sparkar.facebook.com/ar-studio/)
 4. Download workshop assets: TBD
 
 ## Create Spark filter
@@ -27,7 +27,7 @@ _Feel free to explore other Face Tracker techniques_
 3. **Customize Design** if you want.
 4. Click **Create QR Code** and **Download PNG**
 5. Name the image **EYE_XX_YY.png** eg. **EYE_01_JJ.png**.
-6. Upload to the designated folder: https://bit.ly/3foQRin
+6. [Upload here](https://bit.ly/3foQRin)
 
 ## Congratulations
 
