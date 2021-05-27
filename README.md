@@ -31,6 +31,8 @@ _Feel free to add other techniques and face filters_
 
 ![reference](qr-code.png)
 
+![reference](demo.png)
+
 ## Congratulations
 
 You've successfully accomplished all the steps.
