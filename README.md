@@ -29,8 +29,7 @@ _Feel free to explore other Face Tracker techniques_
 5. Name the image **EYE_XX_YY.png** eg. **EYE_01_JJ.png**.
 6. [Upload here](https://bit.ly/3foQRin)
 
-[reference]: qr-code.png "QR Code"
-
+![reference](qr-code.png)
 
 ## Congratulations
 
