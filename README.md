@@ -12,7 +12,7 @@
 1. Open Spark and login in with Facebook account
 2. Open **spark-eye.arproj**
 3. Create a texture to be visible in the eye using your preferred software
-4. Replace the texture named **eyeLeftTex** and **eyeRightTex** under **Assets**
+4. Replace the texture named **eyeLeftTex** and **eyeRightTex** under **Assets** ([eye reference](https://www.figma.com/file/4Fnqy5FVI8rA13gIdBGARk/Basement9))
 5. Click **Video** in the sidebar and choose your camera to preview in your eyes
 6. Click **Test on device** and under **Preview in App** and **Instagram** click **Send**
 7. Open Instagram on your mobile device and preview the effect
