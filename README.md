@@ -26,7 +26,7 @@ Please consider focusing on typography, and powerful words and sentences. It can
 ## Create QR Code
 
 1. Save the **Test Link**
-2. Visit https://www.qrcode-monkey.com/ and enter the link under **Your URL**. Press Enter on your keyboard.
+2. Visit the [QR code generator](https://www.qrcode-monkey.com/) and enter the link under **Your URL**. Press Enter on your keyboard.
 3. **Customize Design** if you want.
 4. Click **Create QR Code** and **Download PNG**
 5. Name the image **EYE_YY.png** eg. **EYE_JJ.png**.
