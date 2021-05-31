@@ -21,7 +21,7 @@ Together we will create filters revealing meaningful messages and questions from
 7. Open Instagram on your mobile device and preview the effect
 8. Iterate.
 
-_Feel free to add other techniques and face filters_
+Please consider focusing on typography, and powerful words and sentences. It can be bold, large, tiny, succinct. You decide. _If you want to use the full face, that's OK but focus on the eyes at first._
 
 ## Create QR Code
 
